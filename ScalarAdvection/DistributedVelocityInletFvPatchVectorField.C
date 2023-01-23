@@ -3,6 +3,8 @@
 // Created: January 1, 2017
 // Last Modified: August 24, 2021
 
+/* Velocity vector field normal to each individual PV inlet is calculated in DistributedVelocityInletFvPatchVectorField.C */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * DistributedVelocityInletFvPatchVectorField.C * * * * *//
 //////////////////////////////////////////////////////////////////////
