@@ -5,17 +5,26 @@ Directory structure for setup of a sample subject simulation using ScalarAdvecti
 │   LAA_ID.stl
 
 │   PV_Flow.csv
+
 │
 ├───0
+
 │								 p
+
 │                s
+
 │                U
+
 │
 ├───constant
+
 │   │          transportProperties
+
 │   │          VelocityInletProperties
+
 │   │
 │   └───polyMesh
+
 │       │               boundary
 │       │               cellZones.gz
 │       │               faces.gz
@@ -40,8 +49,8 @@ where LAA surface geometry is presented in LAA_ID.stl. PV flow throughout a card
 
 
 ### Boundary conditions used with ScalarAdvection solver
-	                  U	                    p	                    s
-PVs	    DistributedVelocityInlet	    zeroGradient	           fixedValue                                                                                                   uniform 0
+				U	                    p	                    s
+PVs		DistributedVelocityInlet	    zeroGradient	           fixedValue                                                                                                   uniform 0
 Mitral	      zeroGradient	          fixedValue
                                       uniform 0	                zeroGradient
 Wall	            noSlip	            zeroGradient	            zeroGradient
