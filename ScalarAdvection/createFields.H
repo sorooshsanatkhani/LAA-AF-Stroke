@@ -5,6 +5,8 @@
 
 // Developed based on a sample createFields of OpenFOAM.
 
+/* Velocity and pressure fields together with viscosity and tracer concentration are defined in createFields.H. These values are calculated and saved for each cell of LA/LAA mesh at each time step. */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * * * * * * createFields.H * * * * * * * * * * * * * * *//
 //////////////////////////////////////////////////////////////////////
