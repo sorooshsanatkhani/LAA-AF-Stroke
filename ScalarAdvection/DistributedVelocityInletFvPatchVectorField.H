@@ -3,6 +3,8 @@
 // Created: January 1, 2017
 // Last Modified: August 24, 2021
 
+/* Classes used in DistributedVelocityInletFvPatchVectorField.C is defined in DistributedVelocityInletFvPatchVectorField.H */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * DistributedVelocityInletFvPatchVectorField.H * * * * *//
 //////////////////////////////////////////////////////////////////////
