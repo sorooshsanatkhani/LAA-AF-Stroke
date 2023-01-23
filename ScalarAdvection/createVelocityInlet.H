@@ -5,6 +5,8 @@
 
 // Developed based on a sample createFields of OpenFOAM.
 
+/* UniformVelocity variable array is defined to store the PV velocity inlets magnitude at each time step. */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * * * * * * createVelocityInlet.H * * * * * * * * * * * *//
 //////////////////////////////////////////////////////////////////////
