@@ -3,6 +3,7 @@ This solver is consisted of a main function defined in ScalarAdvection.C and a b
 Directory structure for setup of a sample subject simulation using ScalarAdvection is presented below:
 
 │   LAA_ID.stl
+
 │   PV_Flow.csv
 │
 ├───0
