@@ -3,6 +3,8 @@
 // Created: January 1, 2017
 // Last Modified: August 24, 2021
 
+/* The total PV inlets surface area needed for UniformVelocity calculation is computed in DistributedVelocityInlet.C */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * * * * * DistributedVelocityInlet.C * * * * * * * * * *//
 //////////////////////////////////////////////////////////////////////
