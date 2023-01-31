@@ -1,3 +1,4 @@
+# icoFoamDistVel
 This solver is consisted of a main function defined in ScalarAdvection.C and a boundary condition for PV inlets, DistributedVelocityInlet. Continuity equation, momentum equations and transport equations are solved in ScalarAdvection.C. A Piso loop is being used to solve momentum equations. Transport equation is being solved at each time step after pressure and velocity calculation in Piso loop. Further, PV flow is read from a CSV file at each time step and velocity at PV inlets is calculated based on the total surface area of PV inlets.
 
 Directory structure for setup of a sample subject simulation using ScalarAdvection is presented below:
