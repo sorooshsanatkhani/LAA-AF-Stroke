@@ -1,5 +1,4 @@
-# Subject-Specific Factors Affecting Particle Residence Time Distribution of Left Atrial Appendage in Atrial Fibrillation: 
-A Computational Model-Based Study
+# Subject-Specific Factors Affecting Particle Residence Time Distribution of Left Atrial Appendage in Atrial Fibrillation: A Computational Model-Based Study
 
 ## Abstract
 Background: Atrial fibrillation (AF) is a prevalent arrhythmia, that causes thrombus formation, ordinarily in the left atrial appendage (LAA). The conventional metric of stroke risk stratification, CHA2DS2-VASc score, does not account for LAA morphology or hemodynamics. We showed in our previous study that residence time distribution (RTD) of blood-borne particles in the LAA and its associated calculated variables (i.e., mean residence time, tm, and asymptotic concentration, C∞) have the potential to improve CHA2DS2-VASc score. The purpose of this research was to investigate the effects of the following potential confounding factors on LAA tm and C∞: (1) pulmonary vein flow waveform pulsatility, (2) non-Newtonian blood rheology and hematocrit level, and (3) length of the simulation.
