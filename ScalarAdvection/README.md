@@ -1,3 +1,7 @@
+
+Please cite our paper if you find this repository usefull:</br>
+Sanatkhani, S., Nedios, S., Menon, P. G., Saba, S. F., Jain, S. K., Federspiel, W. J., & Shroff, S. G. (2023). Subject-specific factors affecting particle residence time distribution of left atrial appendage in atrial fibrillation: A computational model-based study. <i>Front Cardiovasc Med</i>, 10(1070498), 1-13. <a href = "https://doi.org/10.3389/fcvm.2023.1070498" target="_blank">doi: 10.3389/fcvm.2023.1070498</a></li>
+
 # icoFoamDistVel
 This solver is consisted of a main function defined in ScalarAdvection.C and a boundary condition for PV inlets, DistributedVelocityInlet. Continuity equation, momentum equations and transport equations are solved in ScalarAdvection.C. A Piso loop is being used to solve momentum equations. Transport equation is being solved at each time step after pressure and velocity calculation in Piso loop. Further, PV flow is read from a CSV file at each time step and velocity at PV inlets is calculated based on the total surface area of PV inlets.
 
