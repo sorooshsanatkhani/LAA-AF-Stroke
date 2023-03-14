@@ -5,6 +5,11 @@
 
 // Developed based on a sample nonNewtonianIcoFoam of OpenFOAM.
 
+/* Please cite our paper if you find this repository usefull:
+Sanatkhani, S., Nedios, S., Menon, P. G., Saba, S. F., Jain, S. K., Federspiel, W. J., & Shroff, S. G. (2023).
+Subject-specific factors affecting particle residence time distribution of left atrial appendage in atrial fibrillation:
+A computational model-based study. Front Cardiovasc Med, 10(1070498), 1-13. https://doi.org/10.3389/fcvm.2023.1070498 */
+
 //////////////////////////////////////////////////////////////////////
 // * * * * * * * * * * * * nonNewtonianDistVel.C * * * * * * * * * *//
 //////////////////////////////////////////////////////////////////////
